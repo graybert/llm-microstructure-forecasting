@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git ls-tree:*)",
+      "Bash(git rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git filter-branch:*)",
+      "Bash(xargs:*)",
+      "Bash(git reflog:*)",
+      "Bash(git gc:*)",
+      "Bash(git push:*)",
+      "Bash(dir:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
