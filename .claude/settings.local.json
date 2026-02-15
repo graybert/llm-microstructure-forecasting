@@ -11,7 +11,10 @@
       "Bash(git gc:*)",
       "Bash(git push:*)",
       "Bash(dir:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(git checkout:*)",
+      "Bash(grep:*)",
+      "WebSearch"
     ]
   }
 }
